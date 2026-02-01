@@ -1,4 +1,4 @@
-/* RANDOM STUDENT KATA:  */
+/* RANDOM STUDENTS KATA:  */
 
 // Who will be gatekeeper and keymaster today?
 
